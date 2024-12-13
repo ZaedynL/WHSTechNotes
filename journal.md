@@ -1,7 +1,7 @@
 # November 22, 2024
 thanksgiving
 
-December 13, 2024
+#December 13, 2024
 Agenda
 1. Missing Assignments
 Make up any assignments that you have not yet completed. You should be finished with:
@@ -23,14 +23,14 @@ Hello World: Retro - Will be assigned on December 16, 2024
 2. Missing Journals
 You can find all assigned journal prompts here. Use this time to make up any journal entries that you've missed. The journals assigned on the followig dates are the only entries that can still be submitted:
 
-October 15, 2024
-October 21, 2024
-October 28, 2024
-November 4, 2024
-November 12, 2024
-November 18, 2024
-December 2, 2024
-December 9, 2024December 12, 2024
+#  October 15, 2024
+#  October 21, 2024
+#  October 28, 2024
+#  November 4, 2024
+#  November 12, 2024
+#  November 18, 2024
+#  December 2, 2024
+#  December 9, 2024December 12, 2024
 Agenda
 Virtual Field Trip - The Science Behind Crashes
 December 11, 2024
@@ -47,7 +47,7 @@ If you're already logged in and cannot find the assignment, you can use this lin
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 9, 2024.
-December 10, 2024
+#  December 10, 2024
 Agenda
 1. Minecraft Adventurer
 To access the assignment, you must log into Code.org using your Clever account. Please do the following:
@@ -61,7 +61,7 @@ If you're already logged in and cannot find the assignment, you can use this lin
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 9, 2024.
-December 9, 2024
+#  December 9, 2024
 Agenda
 Journal Entry
 The Oxford Word of the Year for 2024 is “brain rot”, a term reflecting concerns about the negative effects of excessive digital consumption on mental well-being and intellectual capacity. With so much of our time spent online, it’s easy to see why this term resonates. Platforms filled with trivial content can entertain, but they might also distract us from more meaningful pursuits.
@@ -77,7 +77,7 @@ How do runner-up words like “slop” and “lore” connect to your experience
 In your opinion, is it possible to balance meaningful engagement with technology while avoiding “brain rot”? If so, how?
 Please be very “demure” and very mindful in your response. You can learn more about the the Oxford word of the year here.
 
-December 6, 2024
+#  December 6, 2024
 Agenda
 1. Minecraft: Hero's Journey
 To access the assignment, you must log into Code.org using your Clever account. Please do the following:
@@ -91,7 +91,7 @@ If you're already logged in and cannot find the assignment, you can use this lin
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 2, 2024.
-December 5, 2024
+#  December 5, 2024
 Agenda
 1. Minecraft Designer
 To access the assignment, you must log into Code.org using your Clever account. Please do the following:
@@ -103,7 +103,7 @@ If your wifi is not working, use the lab computers!
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 2, 2024.
-December 4, 2024
+#  December 4, 2024
 Agenda
 1. Minecraft Designer
 To access the assignment, you must log into Code.org using your Clever account. Please do the following:
@@ -114,14 +114,14 @@ Complete Lesson 1: Minecraft Hour of Code Designer.
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 2, 2024.
-December 3, 2024
+#  December 3, 2024
 Agenda
 1. Python Printing
 Complete Python Printing on Canvas
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 2, 2024.
-December 2, 2024
+#  December 2, 2024
 Agenda
 Journal Entry
 1. Prompt:
@@ -140,14 +140,14 @@ Tip:
 
 Include the source of your research and make your response at least 5-7 sentences.
 
-November 22, 2024
+#  November 22, 2024
 Agenda
 Complete the Jet's Pizza test problem
 Complete this week's journal, which was assigned November 18, 2024
 Check your grade on Skyward and make-up any missing work
 Today is the last day to turn in late work
 Enjoy your week off!
-November 21, 2024
+#  November 21, 2024
 Agenda
 1. Test - Jet's Pizza
 Continue your test: Jet's Pizza
@@ -155,7 +155,7 @@ Fork my Jet's Pizza repository
 Write your solution in the file main.py
 You can use Programiz to test your solution.
 You can use W3schools for a reference.
-November 20, 2024
+#  November 20, 2024
 Agenda
 1. Test - Jet's Pizza
 Continue your test: Jet's Pizza
@@ -163,7 +163,7 @@ Fork my Jet's Pizza repository
 Write your solution in the file main.py
 You can use Programiz to test your solution.
 You can use W3schools for a reference.
-November 19, 2024
+#  November 19, 2024
 Agenda
 1. Test - Jet's Pizza
 Jet's Pizza
@@ -171,7 +171,7 @@ Fork my Jet's Pizza repository
 Write your solution in the file main.py
 You can use Programiz to test your solution.
 You can use W3schools for a reference.
-November 18, 2024
+#  November 18, 2024
 Agenda
 1. Inputs and Variables
 The assignment is on Canvas
@@ -182,7 +182,7 @@ What holiday are we celebrating next week?
 Make-Up
 Make up any Journal Entries you have not yet completed
 This is the last week to turn them in
-November 14, 2024
+#  November 14, 2024
 Agenda
 1. Zumi Robo Cars
 Lesson 2.3 - Shapes with Loops
@@ -190,7 +190,7 @@ Show me your notebook when you've finished so that I can give you your tickets.
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Tuesday, November 12, 2024.
-November 13, 2024
+#  November 13, 2024
 Agenda
 1. Zumi Robo Cars
 Lesson 2.3 - Shapes with Loops
@@ -198,7 +198,7 @@ Show me your notebook when you've finished so that I can give you your tickets.
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Tuesday, November 12, 2024.
-November 12, 2024
+#  November 12, 2024
 Journal Entry
 Choose a current event that interests you or impacts your community.
 
@@ -206,7 +206,7 @@ In a paragraph, briefly summarize the event and explain how it relates to any of
 
 In a second paragraph, reflect on how advancements in computer science or technology could play a role in addressing this event or similar issues in the future.
 
-November 8, 2024
+#  November 8, 2024
 Agenda
 1. Zumi Robo Cars
 Lesson 2.2 - Gyroscope
@@ -214,7 +214,7 @@ Show me your notebook when you've finished so that I can give you your tickets.
 2. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday.
-November 7, 2024
+#  November 7, 2024
 Agenda
 1. Calculations with Variables
 Finish Calculations with Variables on Canvas if you did not finish yesterday
@@ -224,14 +224,14 @@ Show me your notebook when you've finished so that I can give you your tickets.
 3. Journal
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday.
-November 6, 2024
+#  November 6, 2024
 Howdy! I'm out for today and will be back tomorrow. Please behave for your sub.
 
 Your assignment is posted on canvas—Calculations with Variables. If you cannot access the assignment on Canvas.
 
 Have a great day, and I’ll see you tomorrow!
 
-November 4, 2024
+#  November 4, 2024
 Agenda
 Journal Entry
 In today’s digital world, sharing and publishing content online is more common than ever. Whether you’re contributing to a project, posting on social media, or submitting work for class, it’s important to think about the kinds of information you’re sharing and how it can be used.
@@ -248,7 +248,7 @@ How can you balance being open and collaborative in online spaces (like working 
 
 Write a paragraph or more considering these questions. Include examples of actions you can take to safeguard your own data, and reflect on why being cautious online is important for your personal and professional life.
 
-November 1, 2024
+#  November 1, 2024
 Agenda
 Python Fundamentals: Test 1
 Complete Python Fundamentals: Test 1 if you did not complete it yesterday.
@@ -258,13 +258,13 @@ You have unlimited attempts, and I encourage you to retake the test as many time
 Make-Up Missing Journals
 If you have any missing journals, today is the last day to make them up before progress reports.
 You can find the journal prompts here.
-October 31, 2024
+#  October 31, 2024
 Agenda
 Python Fundamentals: Test 1
 The test is posted on Canvas under the "Tests" Module
 You can use the W3Schools Online Python Compiler to check your answers.
 You have unlimited attempts, and I encourage you to retake the test as many times as you need to increase your score.
-October 30, 2024
+#  October 30, 2024
 Agenda
 Zumi Robo Cars
 Finish Lessons 1.1 through 1.4 if you have not finished them yet.
@@ -276,24 +276,24 @@ Zumi Robo Cars
 Finish Lessons 1.1 through 1.3 if you have not finished them yet.
 Lesson 1.4
 Show me your notebook when you've finished so that I can give you your tickets.
-October 28, 2024
+#  October 28, 2024
 Journal Entry
 With the upcoming election, technology plays a huge role in various aspects, from voting machines to social media. How do you think computer science and technology impact the election process? Discuss one positive impact and one potential challenge or concern. Be sure to provide specific examples of how programming, security, or technology influences elections today.
 
-October 25, 2024
+#  October 25, 2024
 Agenda
 Zumi Robo Cars
 Finish Lesson 1.1 and 1.2 if you have not finished them yet.
 Lesson 1.3
 Show me your notebook when you've finished so that I can give you your tickets.
-October 24, 2024
+#  October 24, 2024
 Agenda
 Zumi Robo Cars
 Finish Lesson 1.1 if you did not finish yesterday.
 Lesson 1.2
 Show me your notebook when you've finished so that I can give you your tickets.
 Create GitHub Repository for Zumi Assignments
-October 23, 2024
+#  October 23, 2024
 Agenda
 Introduction to Zumi
 Setup Zumi autonomous cars
@@ -306,7 +306,7 @@ Introduction to Zumi
 Setup Zumi autonomous cars
 Create Zumi account
 Create GitHub Repository for Zumi Assignments
-October 21, 2024
+#  October 21, 2024
 Journal Entry
 The Benefits and Risks of Artificial Intelligence
 
@@ -322,7 +322,7 @@ How AI Works
 Why AI Matters
 Ethics & AI: Equal Access and Algorithmic Bias
 Ethics & AI: Privacy & the Future of Work
-October 18, 2024
+#  October 18, 2024
 Agenda
 1. Khan Academy Lesson 2: Program execution
 khanacademy.org
@@ -335,7 +335,7 @@ Trace program execution
 Debugging with stack traces
 Challenge: Pair programming
 October 17, 2024
-Journal Entry
+#  Journal Entry
 Last week we looked at computer science jobs. This week we'll look at applying computer science to jobs in any industry. I'd like you to consider why is learning to code valuable regardless of the industry you choose to work in?
 
 Write a paragraph or more focused on the following:
@@ -347,7 +347,7 @@ Provide examples where coding knowledge might benefit professionals in various f
 
 You can use the following video to help inform your response: Computer Science is Changing Everything
 
-October 16, 2024
+#  October 16, 2024
 Python Flashcards Poster Assignment Instructions
 Prepare to Present:
 
@@ -360,7 +360,7 @@ Classroom Display:
 After presenting, we will hang the posters around the room to use as references.
 Weekly Journal Prompt
 Assigned	Due
-October 15, 2024	October 18, 2024
+#  October 15, 2024	October 18, 2024
 Last week we looked at computer science jobs. This week we'll look at applying computer science to jobs in any industry. I'd like you to consider why is learning to code valuable regardless of the industry you choose to work in?
 
 Write a paragraph or more focused on the following:
@@ -372,7 +372,7 @@ Provide examples where coding knowledge might benefit professionals in various f
 
 You can use the following video to help inform your response: Computer Science is Changing Everything
 
-October 15, 2024
+#  October 15, 2024
 Python Flashcards Poster Assignment Instructions
 Get Your Flashcard:
 
@@ -396,7 +396,7 @@ Classroom Display:
 After presenting, we will hang the posters around the room to use as references.
 Weekly Journal Prompt
 Assigned	Due
-October 15, 2024	October 18, 2024
+
 Last week we looked at computer science jobs. This week we'll look at applying computer science to jobs in any industry. I'd like you to consider why is learning to code valuable regardless of the industry you choose to work in?
 
 Write a paragraph or more focused on the following:
@@ -408,7 +408,7 @@ Provide examples where coding knowledge might benefit professionals in various f
 
 You can use the following video to help inform your response: Computer Science is Changing Everything
 
-October 10, 2024
+#  October 10, 2024
 Agenda
 1. Make-Up Any Missing Working
 Today is the last day to make-up missing assignments
@@ -418,7 +418,7 @@ Make sure you have completed your Khan Academy assignments.
 Let me know if you have any questions or concerns about your grade.
 Weekly Journal Prompt
 Assigned	Due
-October 7, 2024	October 10, 2024
+#  October 7, 2024	October 10, 2024
 Research a job or career path in the field of computer science that interests you. In your journal entry, write a paragraph or more addressing the following:
 
 Job Title: What is the job or career path you researched?
@@ -427,10 +427,10 @@ Skills Required: What programming languages, tools, or skills are important for 
 Education and Experience: What level of education or experience is typically needed for this role?
 Career Growth: What opportunities for growth or advancement are available in this career?
 Reflection: How does this job align with your interests and goals in computer science?
-October 9, 2024
+#  October 9, 2024
 Testing - No Class
 
-October 8, 2024
+#  October 8, 2024
 Agenda
 2. Khan Academy Lesson 1: The programming platform
 Welcome to Intro to Computer Science - Python!
@@ -440,7 +440,7 @@ Using the development environment
 Challenge: Platform tour
 Weekly Journal Prompt
 Assigned	Due
-October 7, 2024	October 10, 2024
+#  October 7, 2024	October 10, 2024
 Research a job or career path in the field of computer science that interests you. In your journal entry, write a paragraph or more addressing the following:
 
 Job Title: What is the job or career path you researched?
@@ -449,7 +449,7 @@ Skills Required: What programming languages, tools, or skills are important for 
 Education and Experience: What level of education or experience is typically needed for this role?
 Career Growth: What opportunities for growth or advancement are available in this career?
 Reflection: How does this job align with your interests and goals in computer science?
-October 7, 2024
+#  October 7, 2024
 Agenda
 1. Join Khan Academy Class
 Go to khanacademy.org/join
@@ -466,7 +466,7 @@ Using the development environment
 Challenge: Platform tour
 Weekly Journal Prompt
 Assigned	Due
-October 7, 2024	October 10, 2024
+#  October 7, 2024	October 10, 2024
 Research a job or career path in the field of computer science that interests you. In your journal entry, write a paragraph or more addressing the following:
 
 Job Title: What is the job or career path you researched?
@@ -475,7 +475,7 @@ Skills Required: What programming languages, tools, or skills are important for 
 Education and Experience: What level of education or experience is typically needed for this role?
 Career Growth: What opportunities for growth or advancement are available in this career?
 Reflection: How does this job align with your interests and goals in computer science?
-October 4, 2024
+#  October 4, 2024
 Agenda
 1. A Visual Introduction to Python
 English: A Visual Introduction to Python
@@ -488,10 +488,10 @@ Make 5 cakes
 Say hello!
 Weekly Journal Prompt
 Assigned	Due
-September 30, 2024	October 4, 2024
+#  September 30, 2024	October 4, 2024
 Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
 
-October 3, 2024
+#  October 3, 2024
 Agenda
 1. A Visual Introduction to Python
 English: A Visual Introduction to Python
@@ -504,10 +504,10 @@ Turtles are Objects!
 Tina and Tommy's Colors
 Weekly Journal Prompt
 Assigned	Due
-September 30, 2024	October 4, 2024
+#  September 30, 2024	October 4, 2024
 Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
 
-October 2, 2024
+#  October 2, 2024
 Agenda
 A Visual Introduction to Python
 English: A Visual Introduction to Python
@@ -530,10 +530,8 @@ La Cuadrí cula de Tina
 Haciendo círculos
 Weekly Journal Prompt
 Assigned	Due
-September 30, 2024	October 4, 2024
-Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
 
-October 1, 2024
+#  October 1, 2024
 Agenda
 A Visual Introduction to Python
 English: A Visual Introduction to Python
@@ -542,10 +540,10 @@ Spanish: Una introducción visual a Python
 
 Weekly Journal Prompt
 Assigned	Due
-September 30, 2024	October 4, 2024
+#  September 30, 2024	October 4, 2024
 Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
 
-September 30, 2024
+#  September 30, 2024
 Agenda
 1. Code Combat
 You're allowed to use the computers today.
@@ -562,7 +560,7 @@ Spanish: Una introducción visual a Python
 Weekly Journal Prompt
 Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
 
-September 27, 2024
+#  September 27, 2024
 Agenda
 1. Code Combat
 You're allowed to use the computers today.
@@ -586,7 +584,7 @@ What can happen if steps or details are missed in coding?
 Why is it important to develop good habits of attention to detail early in your coding journey?
 Remember to use Claim, Evidence, and Reasoning (C.E.R.) to structure your response.
 
-September 26, 2024
+#  September 26, 2024
 Agenda
 1. Code Combat
 You're allowed to use the computers today.
@@ -605,7 +603,7 @@ What can happen if steps or details are missed in coding?
 Why is it important to develop good habits of attention to detail early in your coding journey?
 Remember to use Claim, Evidence, and Reasoning (C.E.R.) to structure your response.
 
-September 25, 2024
+#  September 25, 2024
 Agenda
 1. Code Combat
 You're allowed to use the computers today.
@@ -624,7 +622,7 @@ What can happen if steps or details are missed in coding?
 Why is it important to develop good habits of attention to detail early in your coding journey?
 Remember to use Claim, Evidence, and Reasoning (C.E.R.) to structure your response.
 
-September 24, 2024
+#  September 24, 2024
 Agenda
 1. Code Combat
 You're allowed to use the computers today.
@@ -643,7 +641,7 @@ What can happen if steps or details are missed in coding?
 Why is it important to develop good habits of attention to detail early in your coding journey?
 Remember to use Claim, Evidence, and Reasoning (C.E.R.) to structure your response.
 
-September 23, 2024
+#  September 23, 2024
 Agenda
 1. Create Maze
 If you have not yet completed your maze, please see yesterday's agenda.
@@ -685,7 +683,7 @@ For Me: What could I have done differently in drafting or explaining the instruc
 For You: Did you encounter any challenges while following the steps? If so, what were they? What do you think may have been missed or misunderstood?
 Please share your thoughts, as we’ll use this feedback to make sure everyone’s journals are properly set up moving forward.
 
-September 12, 2024
+#  September 12, 2024
 Agenda
 1. Sphero BOLT
 Sign In
@@ -705,10 +703,10 @@ For Me: What could I have done differently in drafting or explaining the instruc
 For You: Did you encounter any challenges while following the steps? If so, what were they? What do you think may have been missed or misunderstood?
 Please share your thoughts, as we’ll use this feedback to make sure everyone’s journals are properly set up moving forward.
 
-September 11, 2024
+#  September 11, 2024
 9/11 Ceremony - No Assignment
 
-September 10, 2024
+#  September 10, 2024
 Agenda
 Sign-in to your GitHub account (you may use a computer)
 In a separate tab, open https://tinyurl.com/whscs5.
