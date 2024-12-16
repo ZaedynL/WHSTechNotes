@@ -1,36 +1,5 @@
-# November 22, 2024
-thanksgiving
 
-#December 13, 2024
-Agenda
-1. Missing Assignments
-Make up any assignments that you have not yet completed. You should be finished with:
 
-Discovery Education
-
-Calculations with Variables - Assigned on November 6, 2024
-Inputs and Variables - Assigned on November 18, 2024
-Python Printing - Assigned on December 3, 2024
-Code.org
-
-Before completing any Code.org assignments, please make sure that you have signed in with Clever. You can sign in using this link. If you do not sign in, your work will not be saved.
-
-Minecraft Designer - Assigned on December 4, 2024
-Minecraft: Hero's Journey - Assigned on December 6, 2024
-Minecraft Adventurer - Assigned on December 10, 2024
-Classic Maze - Assigned on December 11, 2024
-Hello World: Retro - Will be assigned on December 16, 2024
-2. Missing Journals
-You can find all assigned journal prompts here. Use this time to make up any journal entries that you've missed. The journals assigned on the followig dates are the only entries that can still be submitted:
-
-#  October 15, 2024
-#  October 21, 2024
-#  October 28, 2024
-#  November 4, 2024
-#  November 12, 2024
-#  November 18, 2024
-#  December 2, 2024
-#  December 9, 2024December 12, 2024
 Agenda
 Virtual Field Trip - The Science Behind Crashes
 December 11, 2024
