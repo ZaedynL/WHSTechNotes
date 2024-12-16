@@ -31,20 +31,8 @@ If you're already logged in and cannot find the assignment, you can use this lin
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 9, 2024.
 #  December 9, 2024
-Agenda
-Journal Entry
-The Oxford Word of the Year for 2024 is “brain rot”, a term reflecting concerns about the negative effects of excessive digital consumption on mental well-being and intellectual capacity. With so much of our time spent online, it’s easy to see why this term resonates. Platforms filled with trivial content can entertain, but they might also distract us from more meaningful pursuits.
+the reason this word is not very demure is because it canh have a negative effect by kids saying and even acting on these words 
 
-The shortlist of runner-ups adds further layers to this theme. Words like “slop” (low-quality, often AI-generated content) and “dynamic pricing” (highlighting economic shifts influenced by technology) show the power and pitfalls of a tech-driven world. Meanwhile, terms like “romantasy” and “lore” reflect how storytelling and creativity thrive in our digital spaces, blending genres and preserving traditions. Further, words like “demure” gained prominence through viral social media posts.
-
-The selection of these words sparks questions about how technology shapes not only our language but also our daily lives. Are we losing something valuable in the process, or are we evolving into something new?
-
-Write a paragraph or more reflecting on the following:
-
-What does the term “brain rot” mean to you? Do you feel like digital media has had a positive or negative impact on your mental well-being this year?
-How do runner-up words like “slop” and “lore” connect to your experience with technology in 2024?
-In your opinion, is it possible to balance meaningful engagement with technology while avoiding “brain rot”? If so, how?
-Please be very “demure” and very mindful in your response. You can learn more about the the Oxford word of the year here.
 
 #  December 6, 2024
 Agenda
@@ -91,24 +79,7 @@ Complete Python Printing on Canvas
 Complete your journal entry for this week if you have not completed it yet.
 The journal entry was assigned Monday, December 2, 2024.
 #  December 2, 2024
-Agenda
-Journal Entry
-1. Prompt:
-
-Artificial intelligence (AI) continues to shape the way we live and work. This week, research one recent development in AI or another emerging technology (e.g., quantum computing, renewable energy tech, AR/VR, etc.). Summarize what you learned and share your thoughts on how it could impact society, your future career, or daily life.
-
-2. Follow-Up Questions:
-
-• What excites or concerns you about this technology?
-
-• Can you think of an innovative way this technology could be used in your field of interest?
-
-• What ethical considerations might need to be addressed as this technology evolves?
-
-Tip:
-
-Include the source of your research and make your response at least 5-7 sentences.
-
+this exites me by making stufff better and my concerns are that robots and ai will take over
 #  November 22, 2024
 Agenda
 Complete the Jet's Pizza test problem
@@ -141,16 +112,7 @@ Write your solution in the file main.py
 You can use Programiz to test your solution.
 You can use W3schools for a reference.
 #  November 18, 2024
-Agenda
-1. Inputs and Variables
-The assignment is on Canvas
-2. Journal
-Prompt
-What holiday are we celebrating next week?
-
-Make-Up
-Make up any Journal Entries you have not yet completed
-This is the last week to turn them in
+they can effect by  having bad things and having to much screen time can effect the way you think-
 #  November 14, 2024
 Agenda
 1. Zumi Robo Cars
@@ -201,21 +163,7 @@ Your assignment is posted on canvas—Calculations with Variables. If you cannot
 Have a great day, and I’ll see you tomorrow!
 
 #  November 4, 2024
-Agenda
-Journal Entry
-In today’s digital world, sharing and publishing content online is more common than ever. Whether you’re contributing to a project, posting on social media, or submitting work for class, it’s important to think about the kinds of information you’re sharing and how it can be used.
-
-Reflect on the following questions:
-
-Why is it important to protect your personal and sensitive information when publishing online?
-
-What steps can you take to ensure that the information you share on platforms like GitHub or social media remains secure?
-
-Have you ever shared something online that you later realized was too personal? How would you handle that differently now?
-
-How can you balance being open and collaborative in online spaces (like working with others on coding projects) while still protecting your privacy?
-
-Write a paragraph or more considering these questions. Include examples of actions you can take to safeguard your own data, and reflect on why being cautious online is important for your personal and professional life.
+because i dontwant to be exposed
 
 #  November 1, 2024
 Agenda
@@ -246,9 +194,7 @@ Finish Lessons 1.1 through 1.3 if you have not finished them yet.
 Lesson 1.4
 Show me your notebook when you've finished so that I can give you your tickets.
 #  October 28, 2024
-Journal Entry
-With the upcoming election, technology plays a huge role in various aspects, from voting machines to social media. How do you think computer science and technology impact the election process? Discuss one positive impact and one potential challenge or concern. Be sure to provide specific examples of how programming, security, or technology influences elections today.
-
+it can couint the way the voting counts come out they can be baad because they can lie
 #  October 25, 2024
 Agenda
 Zumi Robo Cars
@@ -276,21 +222,7 @@ Setup Zumi autonomous cars
 Create Zumi account
 Create GitHub Repository for Zumi Assignments
 #  October 21, 2024
-Journal Entry
-The Benefits and Risks of Artificial Intelligence
-
-Artificial Intelligence (AI) is transforming industries like healthcare, education, and business, but it also comes with challenges. In this journal entry, write about how AI has the potential to help improve our lives. Then, consider some ways in which AI could cause harm, especially in areas like privacy, jobs, and security. Be sure to support your thoughts with examples for both sides.
-
-Helpful: How does AI improve efficiency and innovation in industries like healthcare, education, or transportation?
-Harmful: What are some risks AI poses, such as job automation, bias in algorithms, or cybersecurity threats?
-Write two paragraphs—one focusing on the benefits and one on the potential risks.
-
-You can use the following resources to inform your response:
-
-How AI Works
-Why AI Matters
-Ethics & AI: Equal Access and Algorithmic Bias
-Ethics & AI: Privacy & the Future of Work
+it can make machines and can heelp witht the prosuction
 #  October 18, 2024
 Agenda
 1. Khan Academy Lesson 2: Program execution
@@ -332,7 +264,7 @@ Assigned	Due
 #  October 15, 2024	October 18, 2024
 Last week we looked at computer science jobs. This week we'll look at applying computer science to jobs in any industry. I'd like you to consider why is learning to code valuable regardless of the industry you choose to work in?
 
-Write a paragraph or more focused on the following:
+Write a paragraph or more focused on the following:+
 
 How can coding improve problem-solving skills?
 How might understanding code help you in industries that aren’t directly related to technology, such as healthcare, finance, or education?
@@ -342,40 +274,7 @@ Provide examples where coding knowledge might benefit professionals in various f
 You can use the following video to help inform your response: Computer Science is Changing Everything
 
 #  October 15, 2024
-Python Flashcards Poster Assignment Instructions
-Get Your Flashcard:
-
-Each student or group gets one Python term (e.g., Variables, Strings, Comments).
-Create a Poster:
-
-Write your term at the top.
-Include a simple definition.
-Add a code example that shows how the term is used in Python.
-Work Together (for groups):
-
-If you’re in a group, split the work and help each other create the poster.
-Prepare to Present:
-
-Get ready to explain your term, definition, and example to the class.
-Present to the Class:
-
-Share your poster, explain your term, and show your code example.
-Classroom Display:
-
-After presenting, we will hang the posters around the room to use as references.
-Weekly Journal Prompt
-Assigned	Due
-
-Last week we looked at computer science jobs. This week we'll look at applying computer science to jobs in any industry. I'd like you to consider why is learning to code valuable regardless of the industry you choose to work in?
-
-Write a paragraph or more focused on the following:
-
-How can coding improve problem-solving skills?
-How might understanding code help you in industries that aren’t directly related to technology, such as healthcare, finance, or education?
-How does coding enhance creativity or collaboration?
-Provide examples where coding knowledge might benefit professionals in various fields. Remember to use specific examples and reflect on how coding can impact your future career path, even if it’s not directly related to computer science.
-
-You can use the following video to help inform your response: Computer Science is Changing Everything
+it can help by only making a machine work
 
 #  October 10, 2024
 Agenda
