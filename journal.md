@@ -1,4 +1,6 @@
+# january 8 2025
 
+the break was alright it was calm lowkey not that skibidi and it wasnt even worth all the hype lowkey lame l break all i did was play the game crank 90s and catch some z'ss
 
 Agenda
 Virtual Field Trip - The Science Behind Crashes
