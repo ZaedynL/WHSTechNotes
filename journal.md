@@ -1,7 +1,6 @@
-# january 8 2025
+# January 8 2025
 
-the break was alright it was calm lowkey not that skibidi and it wasnt even worth all the hype lowkey lame l break all i did was play the game crank 90s and catch some z'ss
-
+the last semester was good and i feel that the last semester dosnt really need changing cause it felt good i juits wasnt doing my work
 
 #  December 10, 2024
 Agenda
