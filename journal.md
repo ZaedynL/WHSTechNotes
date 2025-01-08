@@ -2,22 +2,7 @@
 
 the break was alright it was calm lowkey not that skibidi and it wasnt even worth all the hype lowkey lame l break all i did was play the game crank 90s and catch some z'ss
 
-Agenda
-Virtual Field Trip - The Science Behind Crashes
-December 11, 2024
-Agenda
-1. Classic Maze
-To access the assignment, you must log into Code.org using your Clever account. Please do the following:
 
-Visit this link.
-Search for Karen Wagner.
-Log in with Google using your school email address.
-Complete Classic Maze.
-If you're already logged in and cannot find the assignment, you can use this link.
-
-2. Journal
-Complete your journal entry for this week if you have not completed it yet.
-The journal entry was assigned Monday, December 9, 2024.
 #  December 10, 2024
 Agenda
 1. Minecraft Adventurer
