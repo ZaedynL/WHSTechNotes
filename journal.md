@@ -1,3 +1,6 @@
+# january 20 2026 
+One way that technology can help promote fairness and injustice is by sharing info and also letting more people know. For example all around the world there is some form of injustice and unfairness like being in school or even claming something is yours just based off your skin color.This way of using techology to spread more info helps by letting things feel mre seen by the public
+
 # January 8 2025
 
 the last semester was good and i feel that the last semester dosnt really need changing cause it felt good i juits wasnt doing my work
